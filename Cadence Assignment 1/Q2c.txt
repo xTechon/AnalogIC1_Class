@@ -1,0 +1,164 @@
+
+vgs               OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0
+" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"  
+  OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/N
+M0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"
+    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("
+/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "?
+?"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP
+("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" 
+"??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    
+OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0
+" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"  
+  OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/N
+M0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"
+    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("
+/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "?
+?"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP
+("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" 
+"??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    
+OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0
+" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"  
+  OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/N
+M0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"
+    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("
+/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "?
+?"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP
+("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" "??"    OP("/NM0" 
+"??"    OP("/NM0" "??"
+
+sweep             sdop              reversed          region            sdint   
+          ctype             opdef             gmoveri           fqslim          
+  tau1              cmx               cmb               cm                co    
+            go                vth0              Iavl              dtsh          
+    ig                ib                tk                vdsat_marg        vth_
+drive         ft                vearly            fug               beff        
+      rout              self_gain         vsat_marg         vdss              vg
+t               gmb               vsb               isb               idb       
+        ibe               ise               ige               ide               
+qsrco             cbsbi             cbdbi             cgdbi             cgsbi   
+          cggbi             cssbi             cddbi             qbi             
+  qdi               qsi               qgi               igisl             igidl 
+            igcd              igcs              igb               igs           
+    igd               qinv              vgsteff           gbs               gbd 
+              i4                i3                i1                cgbovl      
+      cgdovl            cgsovl            ueff              gmoverid          pw
+r               ibd               ibs               ibulk             is        
+        id                ron               cbb               cbs               
+cbd               cbg               csb               css               csd     
+          csg               cdb               cds               cdd             
+  cdg               cgb               cgs               cgd               cgg   
+            qbs               qbd               qd                qg            
+    qb                cjs               cjd               betaeff           gmbs
+              gds               gm                vfbeff            vdsat       
+      vth               vgd               vdb               vgb               vb
+s               vds               vgs               isub              ids       
+        trise             
+  500m            -1                0                 3                     2.14
+748G          2.14748G          2.14748G          NaN               NaN         
+      NaN               NaN               NaN               NaN               Na
+N               NaN               NaN               NaN               NaN       
+        NaN               NaN               NaN               NaN               
+NaN               NaN           -0                0                 -0          
+          6.46362K      0                   -72.5163m          72.5163m         
+ -2.96104m      0                 -0                -0                -0        
+        0                 -0                0                 -0                
+   -1.35806f       -656.302a           -2.9482f          -4.64229f         -6.36
+543f         14.2968f          11.106f           11.3904f         -12.7725f     
+   -251.762a         -251.762a           13.276f        0                 0     
+            0                 0                 0                 0             
+    0                   265.417u           35.8598m       0                     
+3.97859p      0                 -0                -0                   78.3861a 
+          2.2126f           2.2126f          42.056m        0                 0 
+                0                 0                 0                 -0        
+        -0                in                   13.8138f        -656.302a        
+   -9.9769f          -3.18055f         -1.70879f         13.3186f          -3.79
+989f         -7.80992f         -8.73749f         -4.08427f         20.6317f     
+     -7.80992f         -3.36747f         -8.57803f         -6.85489f         18.
+8004f       0                 0                    -1.35806f         15.5278f   
+      -12.8117f       0                     7.0287f           4.93435m      0   
+                154.712u        0                  -957.907m           72.5163m 
+        502.961m          500m            0                   500m            0 
+                0                   500m            0                 0         
+            NaN           
+    1             -1                0                 1                     2.14
+748G          2.14748G          2.14748G          NaN               NaN         
+      NaN               NaN               NaN               NaN               Na
+N               NaN               NaN               NaN               NaN       
+        NaN               NaN               NaN               NaN               
+NaN               NaN           -0                0                 -0          
+        482.089         0                  -381.924m          381.924m          
+497.039m        0                 -0                -0                -0        
+        0                 -0                0                 -0                
+   -8.03726f       -405.306a           -6.97151f        -10.9861f         -12.12
+03f          23.5235f          24.2301f          26.9461f         -12.9673f     
+     -5.82466f         -5.82466f         24.6167f       0                 0     
+            0                 0                 0                 0             
+    0                     3.40199m        497.013m        0                     
+3.97859p      0                 -0                -0                   78.3861a 
+          2.2126f           2.2126f          38.893m        0                 0 
+                0                 0                 0                 -0        
+        -0                in                   14.5699f        -405.306a        
+  -14.0002f        -164.401a           -3.52284f         26.4427f          -8.98
+851f        -13.9313f         -10.5515f         -11.7045f          36.1874f     
+    -13.9313f        -495.524a          -14.3329f         -13.1987f          28.
+027f        0                 0                    -8.03726f         29.1202f   
+      -13.0457f       0                     7.0287f           4.56324m      0   
+                  2.07431m      0                  -954.69m           381.924m  
+        502.961m            1             0                     1             0 
+                0                     1             0                 0         
+            NaN           
+    1.5           -1                0                 1                     2.14
+748G          2.14748G          2.14748G          NaN               NaN         
+      NaN               NaN               NaN               NaN               Na
+N               NaN               NaN               NaN               NaN       
+        NaN               NaN               NaN               NaN               
+NaN               NaN           -0                0                 -0          
+        283.777         0                  -651.141m          651.141m          
+997.039m        0                 -0                -0                -0        
+        0                 -0                0                 -0                
+  -15.0029f        -187.411a           -7.19408f        -11.3371f         -11.76
+45f          23.4924f          24.5169f          27.8065f         -13.0017f     
+    -11.684f          -11.684f           36.3698f       0                 0     
+            0                 0                 0                 0             
+    0                     5.98538m        997.039m        0                     
+3.97859p      0                 -0                -0                   78.3861a 
+          2.2126f           2.2126f          34.1104m       0                 0 
+                0                 0                 0                 -0        
+        -0                in                   14.5435f        -187.411a        
+  -14.2228f        -133.324a           -3.52285f         26.7295f          -9.27
+533f        -13.9313f         -10.5515f         -12.565f           37.0478f     
+    -13.9313f        -469.127a          -13.9771f         -13.5497f          27.
+996f        0                 0                   -15.0029f          43.1251f   
+      -13.1193f       0                     7.0287f           4.00211m      0   
+                  3.52389m      0                  -952.762m          651.141m  
+        502.961m            1.5           0                     1.5           0 
+                0                     1.5           0                 0         
+            NaN           
+    2             -1                0                 1                     2.14
+748G          2.14748G          2.14748G          NaN               NaN         
+      NaN               NaN               NaN               NaN               Na
+N               NaN               NaN               NaN               NaN       
+        NaN               NaN               NaN               NaN               
+NaN               NaN           -0                0                 -0          
+        227.735         0                  -903.474m          903.474m          
+  1.49704       0                 -0                -0                -0        
+        0                 -0                0                 -0                
+  -21.9686f        -113.511a           -7.27116f        -11.4587f         -11.63
+98f          23.4755f          24.6162f          28.1045f         -13.0246f     
+    -17.5434f         -17.5434f          48.1114f       0                 0     
+            0                 0                 0                 0             
+    0                     7.63882m          1.49704       0                     
+3.97859p      0                 -0                -0                   78.3861a 
+          2.2126f           2.2126f          28.9935m       0                 0 
+                0                 0                 0                 -0        
+        -0                in                   14.5298f        -113.511a        
+  -14.2999f        -116.462a           -3.52285f         26.8288f          -9.37
+465f        -13.9313f         -10.5515f         -12.8629f          37.3458f     
+    -13.9313f        -455.443a          -13.8524f         -13.6713f          27.
+9791f       0                 0                   -21.9686f          57.1185f   
+      -13.1814f       0                     7.0287f           3.40175m      0   
+                  4.39107m      0                  -951.479m          903.474m  
+        502.961m            2             0                     2             0 
+                0                     2             0                 0         
+            NaN           
